@@ -41,21 +41,20 @@
 
 <p align="center">
  <samp>
-    How does the Process Killer App work?
+    Process Killer Nasıl Çalışır?
     
-1. **Enter Application Name:**
-   - Enter the name of the application you want to terminate.
+1. **Uygulama İsmi Gir:**
+   - Sonlandırmak istediğiniz uygulamanın adını girin.
 
 2. **Find the Application:**
    - The program searches for the specified application name.
+     
+3. **Uygulamayı Sonlandırın:**
+    - Başvurunun bulunması halinde sonlandırılır.
 
-3. **Terminate the Application:**
-   - If the application is found, it is terminated.
-
-4. **Customization Required:**
-   - Certain parts of the program may require customization based on your specific project requirements. These sections are indicated below:
-
-       - [ ] **Error Handling:** Implement error handling to deal with cases where the specified application cannot be found or cannot be terminated.
-       - [ ] **Enhanced User Interface:** Enhance the user interface to provide a more user-friendly experience.
+4. **Özelleştirme Gerekli:**
+    - Programın belirli bölümleri, özel proje gereksinimlerinize göre özelleştirme gerektirebilir. Bu bölümler aşağıda belirtilmiştir:
+        - [ ] **Hata İşleme:** Belirtilen uygulamanın bulunamadığı veya sonlandırılamadığı durumlarla başa çıkmak için hata işlemeyi uygulayın.
+        - [ ] **Geliştirilmiş Kullanıcı Arayüzü:** Daha kullanıcı dostu bir deneyim sağlamak için kullanıcı arayüzünü geliştirin.
 </samp>
 </p>

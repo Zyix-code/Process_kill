@@ -39,8 +39,6 @@
 4. **Versiyon Kontrolü Yapın:**
    - Programınız, .exe versiyonundan daha küçük bir versiyon numarası gördüğünde güncelleme yapmayacaktır.
 
-Bu adımları takip ederek, OS UPDATE işlemini başarıyla gerçekleştirebilirsiniz.
-
 [discord]: Zyix#1002
 [youtube]: https://www.youtube.com/channel/UC7uBi3y2HOCLde5MYWECynQ?view_as=subscriber
 [reddit]: https://www.reddit.com/user/_Zyix

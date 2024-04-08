@@ -56,5 +56,8 @@
     - Programın belirli bölümleri, özel proje gereksinimlerinize göre özelleştirme gerektirebilir. Bu bölümler aşağıda belirtilmiştir:
         - [ ] **Hata İşleme:** Belirtilen uygulamanın bulunamadığı veya sonlandırılamadığı durumlarla başa çıkmak için hata işlemeyi uygulayın.
         - [ ] **Geliştirilmiş Kullanıcı Arayüzü:** Daha kullanıcı dostu bir deneyim sağlamak için kullanıcı arayüzünü geliştirin.
-</samp>
+<hr>
+      <strong>Lisans:</strong> Bu proje <a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU Genel Kamu Lisansı</a> (GPL), sürüm 3.0 altında dağıtılmaktadır. Projenin tüm kullanıcıları, lisansın koşullarına uymak kaydıyla projeyi özgürce kullanabilir, değiştirebilir ve paylaşabilir. Daha fazla bilgi için <a href="LICENSE">LİSANS</a> dosyasına bakabilirsiniz.<br>
+      &copy; 2024 <a href="https://github.com/Zyix-code">Selçuk Şahin</a>
+   </samp>
 </p>
